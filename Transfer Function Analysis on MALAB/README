@@ -1,1 +1,2 @@
-
+Matlab code for continuous and discrete control system modeling and response analysis on a DC-motor controller.
+Including Laplace Transform, Z-transform. Bode diagram, Nyquist diagram, Root Locus method, etc.
